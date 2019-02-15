@@ -1,2 +1,2 @@
-# stika-patterns-observer
+# Observer Pattern
 Observer pattern for Python
